@@ -12,6 +12,7 @@ body {
     gap: 5%;
     height: 100vh;
     justify-content: center;
+    overflow: hidden;
     width: 100vw;
 }
 
@@ -27,7 +28,7 @@ h2 {
     font-size: 3rem;
 }
 
-@media (max-width: 460px) {
+@media (max-width: 900px) {
     img {
         width: 400px;
     }
