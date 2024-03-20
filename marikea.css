@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    align-items: center;
+    background-color: #DFD1AE;
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+    color: #0D87CB;
+    font-size: 3rem;
+}
