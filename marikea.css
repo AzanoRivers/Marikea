@@ -38,4 +38,7 @@ h2 {
     img {
         width: 300px;
     }
+    h2 {
+        font-size: 2rem;
+    }
 }
